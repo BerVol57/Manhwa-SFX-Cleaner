@@ -18,3 +18,8 @@ Grinched.ttf
 inpaint*.png
 __pycache__
 *dataset*
+inpainting_models.ipynb
+playground.ipynb
+diffusion_models.ipynb
+tt.ipynb
+vlm_models.ipynb
